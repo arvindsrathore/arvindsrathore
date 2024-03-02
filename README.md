@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+---
+
 <!--
 **arvindsrathore/arvindsrathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
