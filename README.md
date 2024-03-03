@@ -6,15 +6,23 @@
   </a>
 </h1>
 
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/arvindsinghrathore212002/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/kingsenior" title="Codeforces Profile"><img width="22" src="images/code-forces.svg"> Codeforces</a></code>
   <code><a href="https://www.instagram.com/kng_sr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> 
+  
 </h5>
 <br>
+
 <p align="center">
   Hi, I'm Arvind Singh Rathore, a pre final year engineering student pursuing degree in Information Technology.
   <br>
+  
+### Music 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/316xkbsmed2v5acdxknbjdjpkpde)
+<br/>
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -37,14 +45,10 @@
 
 </p>
 
+
 <!--
 ---
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
-
+zumrudu-anka
 
 **arvindsrathore/arvindsrathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
