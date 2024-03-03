@@ -9,8 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/arvindsinghrathore212002/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/kingsenior" title="Codeforces Profile"><img width="22" src="images/code-forces.svg"> Codeforces</a></code>
-  <code><a href="https://www.instagram.com/kng_sr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>  
-  <code><a href="https://www.instagram.com/kng_sr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/kng_sr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> 
 </h5>
 <br>
 <!--
