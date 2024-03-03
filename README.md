@@ -1,14 +1,15 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arvindsrathore.kingsenior&left_color=red&right_color=yellow">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiii,+There!+👋;Arvind+SR+Here....;Nice+to+meet+you!!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋;Arvind+SR+Here....;Feels+good+to+meet+you!!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/arvindsinghrathore212002/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/kingsenior" title="Codeforces Profile"><img width="22" src="images/code-forces.svg"> Codeforces</a></code>
+  <code><a href="https://www.instagram.com/kng_sr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>  
   <code><a href="https://www.instagram.com/kng_sr/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
